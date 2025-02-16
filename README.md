@@ -1,5 +1,5 @@
 # Minesweeper
-A simplistic take on the classic game of Minesweeper, equipped with a multitude of additional features:
+A simplistic take on the classic game of Minesweeper made using Pygame, equipped with a multitude of additional features:
 
 Board Editor:
 A toggleable editor option allows boards to be altered freely. This enables the user to create fun and challenging custom boards.
